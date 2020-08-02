@@ -54,3 +54,37 @@ body {
     margin-bottom: -5px;
 
 }
+
+
+.PortPic1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.PortPic2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.PortPic3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.PortPic4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.PortPic5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
