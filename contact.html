@@ -12,10 +12,13 @@
   <div class="nametitle"> 
   <h1><b>Richard B. Hall</b></h1>
   </div>
+          <!--Buttons-->
   <div class="buttons">
-    <p align="right"> <button class="redirectPortfolio"><b>Portfolio »</b></button> </p>
+
+    <a class="redirectPortfolio" href="portfolio.html"><b>Portfolio »</b></a> 
+     <br>
       
-      <p align="right"> <button class="redirectAboutMe"><b>About Me »</b></button></p>
+      <a class="redirectAboutMe" href="aboutMe.html"><b>About Me »</b></button></a>
   </div>
   </div>
 </header>
@@ -37,9 +40,13 @@
   body {
     background-image: url("https://i.pinimg.com/originals/16/c3/7b/16c37b109d1c0d53d4535cfc4af720e1.jpg")
   }
-  .buttons {
-    display: block;
-  }
+
+  input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
   </style>
 
 <!-- Body -->
@@ -53,6 +60,30 @@
     <div class="contactInformation"
      <p> Contact Information </p>
   </div>
+    <!-- div fill in blank form-->
+    
+    <div class="Forms">
+
+      <form>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+
+        <label for="email">Email:</label><br>
+        <input type="text" id="email" name="email"><br>
+
+        <label for="msg">Message:</label><br>
+        <input type="text" id="msg" name="msg">
+
+      </form>
+    </div>
+
+    <div class="submit">
+      <form>
+        <a class="submit"></a><b>submit</b></button></a>
+      </form>
+      </div>
+
+
 
 </body>
 
