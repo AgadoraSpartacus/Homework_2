@@ -9,11 +9,11 @@ The AboutMe page demonstrated the application of Lorem, wrapping text around an 
 
 ## Contact
 The Contact page demonstrated the application of forms in what would later be a staple in future applications
-https://github.com/HallRB/Unit-02-CSS-and-Bootstrap/blob/master/images/Contacts.JPG
+![contact screenshot](https://github.com/HallRB/Unit-02-CSS-and-Bootstrap/blob/master/images/Contacts.JPG)
 
 ## Portfolio
 The Portfolio page demonstrated the application of importing multiple images
-https://github.com/HallRB/Unit-02-CSS-and-Bootstrap/blob/master/images/Portfolio.JPG
+![portfolio screenshot](https://github.com/HallRB/Unit-02-CSS-and-Bootstrap/blob/master/images/Portfolio.JPG)
 
 ## Struggles
 When this assignment was first created I struggled to find the proper way of styling.  Instead I often used specific margins and padding to make the page appear as I believe it should have been.  This however only applied in a page that was stagnant and if the page was restored down or reshaped the specific margins wouldn't account for these changes and it would appear incorrect.
