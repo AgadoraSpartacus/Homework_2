@@ -1,8 +1,5 @@
 # Unit-02-CSS-and-Bootstrap
 
-## Preview
-https://hallrb.github.io/Unit-02-CSS-and-Bootstrap/
-
 ## Purpose
 In this assignment we demonstrated our basic knowledge of css and html by putting together a web page that contained an AboutMe page, a Contact page, and a Portfolio page
 
